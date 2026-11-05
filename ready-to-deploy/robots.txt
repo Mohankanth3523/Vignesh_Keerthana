@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vignesh-keerthana.pages.dev/sitemap.xml

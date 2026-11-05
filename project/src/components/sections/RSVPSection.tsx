@@ -1,0 +1,1 @@
+// The RSVP section was removed. This file is no longer used — you can delete it.
